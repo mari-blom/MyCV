@@ -34,8 +34,7 @@ The portfolio highlights several software development projects completed during 
 * Sticky Notes Manager (Django)
 * Get Your Goods eCommerce Website
 * News Portal
-```
-```
+
 ## How to View the Website
 
 1. Download or clone this repository.
